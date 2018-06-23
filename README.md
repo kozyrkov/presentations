@@ -1,3 +1,3 @@
 # Presentations
 
-Slide decks from Cassie Kozyrkov's talks.
+Slide decks and notes from Cassie Kozyrkov's talks.
